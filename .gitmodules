@@ -1,0 +1,4 @@
+[submodule "scrapers/ilekarze"]
+	url = https://github.com/Rolek212/Web_scrapper.git
+[submodule "scrapers/medyczka"]
+	url = https://github.com/kriszub98/projekt_zig
