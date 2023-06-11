@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@types/ndjson": "^2.0.1",
+    "eslint": "^8.38.0",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "dev": "npx nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "ndjson": "^2.0.0",
+    "puppeteer": "^19.8.5"
+  }
+}
